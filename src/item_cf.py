@@ -5,6 +5,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 
 
+
 class ItemCFRecommender:
     """Item-item similarity recommender for movies."""
 

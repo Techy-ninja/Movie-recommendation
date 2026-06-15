@@ -5,6 +5,7 @@ import pandas as pd
 from surprise import Dataset, Reader, SVD
 
 
+
 class SVDRecommender:
     """Surprise SVD model for rating prediction."""
 

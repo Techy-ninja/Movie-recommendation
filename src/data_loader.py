@@ -10,6 +10,7 @@ import pandas as pd
 
 from .utils import ensure_dir
 
+
 MOVIELENS_SMALL_URL = "https://files.grouplens.org/datasets/movielens/ml-latest-small.zip"
 MOVIELENS_SMALL_DIRNAME = "ml-latest-small"
 

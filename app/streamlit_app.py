@@ -405,3 +405,4 @@ with tabs[2]:
             f"<span class='subtle'>Actual rating in data:</span> {actual:.1f}",
             unsafe_allow_html=True,
         )
+

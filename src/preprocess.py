@@ -8,6 +8,7 @@ import pandas as pd
 
 from .utils import ensure_dir
 
+
 YEAR_PATTERN = re.compile(r"\((\d{4})\)\s*$")
 
 

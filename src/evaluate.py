@@ -11,6 +11,7 @@ from surprise.model_selection import train_test_split
 from .item_cf import ItemCFRecommender
 
 
+
 def evaluate_rmse_mae(predictions: pd.DataFrame) -> pd.DataFrame:
     """Compute RMSE and MAE from a predictions table."""
     if "pred_rating" not in predictions.columns:

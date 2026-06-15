@@ -4,6 +4,7 @@ from __future__ import annotations
 import pandas as pd
 
 
+
 class PopularityRecommender:
     """Recommends popular, well-rated movies with minimum support."""
 

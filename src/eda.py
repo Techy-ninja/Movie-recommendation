@@ -10,6 +10,7 @@ import seaborn as sns
 from .utils import ensure_dir
 
 
+
 def _load_processed_tables(data_dir: str) -> tuple[pd.DataFrame, pd.DataFrame]:
     processed_dir = Path(data_dir) / "processed"
     ratings_path = processed_dir / "ratings_clean.csv"
