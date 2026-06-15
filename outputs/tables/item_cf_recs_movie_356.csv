@@ -1,0 +1,11 @@
+movieId,similarity,title,genres,year,title_clean,genres_list,avg_rating,rating_count
+318,0.7129930616208374,"Shawshank Redemption, The (1994)",Crime|Drama,1994.0,"Shawshank Redemption, The","['Crime', 'Drama']",4.429022082018927,317
+480,0.6882585716184462,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,1993.0,Jurassic Park,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",3.75,238
+296,0.6855436726312908,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,1994.0,Pulp Fiction,"['Comedy', 'Crime', 'Drama', 'Thriller']",4.197068403908795,307
+110,0.643089909656765,Braveheart (1995),Action|Drama|War,1995.0,Braveheart,"['Action', 'Drama', 'War']",4.031645569620253,237
+593,0.6394625289111043,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,1991.0,"Silence of the Lambs, The","['Crime', 'Horror', 'Thriller']",4.161290322580645,279
+150,0.6275585035702105,Apollo 13 (1995),Adventure|Drama|IMAX,1995.0,Apollo 13,"['Adventure', 'Drama', 'IMAX']",3.845771144278607,201
+2571,0.6099347988177692,"Matrix, The (1999)",Action|Sci-Fi|Thriller,1999.0,"Matrix, The","['Action', 'Sci-Fi', 'Thriller']",4.192446043165468,278
+500,0.6079825341881602,Mrs. Doubtfire (1993),Comedy|Drama,1993.0,Mrs. Doubtfire,"['Comedy', 'Drama']",3.388888888888889,144
+527,0.6020717257722956,Schindler's List (1993),Drama|War,1993.0,Schindler's List,"['Drama', 'War']",4.225,220
+589,0.6008861125749384,Terminator 2: Judgment Day (1991),Action|Sci-Fi,1991.0,Terminator 2: Judgment Day,"['Action', 'Sci-Fi']",3.970982142857143,224

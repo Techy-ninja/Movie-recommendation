@@ -1,0 +1,2 @@
+movieId,title,genres,year,title_clean,genres_list,avg_rating,rating_count
+356,Forrest Gump (1994),Comedy|Drama|Romance|War,1994.0,Forrest Gump,"['Comedy', 'Drama', 'Romance', 'War']",4.164133738601824,329
